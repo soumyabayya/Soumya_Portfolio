@@ -73,6 +73,6 @@ function vote() {
 
 function resume() {
   open(
-    "https://drive.google.com/file/d/1gFtx_t0TtYF3WvIuTqo9eG8SAeIFP3kl/view?usp=sharing"
+    "https://drive.google.com/file/d/13oiadfg3ugsexSQ4u_oBD0PFVMwEJLu3/view?usp=sharing"
   );
 }
